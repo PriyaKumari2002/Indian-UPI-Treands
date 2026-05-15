@@ -147,15 +147,6 @@ Interactive dashboard built using a professional dark theme.
 
 ---
 
-## 🖼️ Dashboard Preview
-
-> Add your dashboard screenshots here
-
-### Main Dashboard
-![Dashboard Preview](images/dashboard.png)
-
----
-
 ## 🎯 Skills Demonstrated
 
 - Data Cleaning
